@@ -1,5 +1,5 @@
 A very minor remix of the XOL belt clips to suit CPC rails.
-Provides extra clearace for the wider CPC carriage.
+Provides extra clearance for the wider CPC carriage.
 
 Note: This is the first time I have remixed a part in 360 & uploaded to github. Soo.. use with caution.
 
